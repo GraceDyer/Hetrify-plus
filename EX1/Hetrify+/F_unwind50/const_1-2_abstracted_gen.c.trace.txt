@@ -1,0 +1,62 @@
+[stdout]
+CBMC version 5.95.1 (cbmc-5.95.1) 64-bit x86_64 linux
+Parsing Hetrify+/F/const_1-2_abstracted_gen.c
+Converting
+Type-checking const_1-2_abstracted_gen
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+Runtime Symex: 0.0186249s
+size of program expression: 486 steps
+simple slicing removed 5 assignments
+Generated 1 VCC(s), 1 remaining after simplification
+Runtime Postprocess Equation: 2.6701e-05s
+Passing problem to propositional reduction
+converting SSA
+Runtime Convert SSA: 0.00271509s
+Running propositional reduction
+Post-processing
+Runtime Post-process: 2e-06s
+Solving with MiniSAT 2.2.1 with simplifier
+11146 variables, 209 clauses
+SAT checker: instance is SATISFIABLE
+Runtime Solver: 0.000584919s
+Runtime decision procedure: 0.00336441s
+
+** Results:
+Hetrify+/F/const_1-2_abstracted_gen.c function main
+[main.assertion.1] line 367 assertion assert_ret1 == 1: FAILURE
+
+** 1 of 1 failed (2 iterations)
+VERIFICATION FAILED
+
+
+[stderr]
+**** WARNING: Use --unwinding-assertions to obtain sound verification results
+Command exited with non-zero status 10
+	Command being timed: "cbmc Hetrify+/F/const_1-2_abstracted_gen.c --unwind 50 --no-built-in-assertions"
+	User time (seconds): 0.04
+	System time (seconds): 0.02
+	Percent of CPU this job got: 55%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.12
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 17024
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 4484
+	Voluntary context switches: 399
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 16
+	File system outputs: 32
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 10

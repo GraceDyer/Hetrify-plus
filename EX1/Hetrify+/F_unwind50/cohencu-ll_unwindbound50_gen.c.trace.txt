@@ -1,0 +1,111 @@
+[stdout]
+CBMC version 5.95.1 (cbmc-5.95.1) 64-bit x86_64 linux
+Parsing Hetrify+/F/cohencu-ll_unwindbound50_gen.c
+Converting
+Type-checking cohencu-ll_unwindbound50_gen
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+Unwinding loop start.0 iteration 1 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 2 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 3 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 4 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 5 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 6 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 7 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 8 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 9 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 10 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 11 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 12 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 13 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 14 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 15 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 16 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 17 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 18 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 19 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 20 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 21 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 22 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 23 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 24 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 25 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 26 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 27 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 28 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 29 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 30 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 31 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 32 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 33 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 34 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 35 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 36 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 37 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 38 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 39 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 40 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 41 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 42 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 43 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 44 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 45 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 46 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 47 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 48 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Unwinding loop start.0 iteration 49 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Not unwinding loop start.0 iteration 50 file Hetrify+/F/cohencu-ll_unwindbound50_gen.c line 667 function start thread 0
+Runtime Symex: 4.26815s
+size of program expression: 55274 steps
+simple slicing removed 5 assignments
+Generated 1 VCC(s), 1 remaining after simplification
+Runtime Postprocess Equation: 0.0105823s
+Passing problem to propositional reduction
+converting SSA
+Runtime Convert SSA: 0.411047s
+Running propositional reduction
+Post-processing
+Runtime Post-process: 4.4e-06s
+Solving with MiniSAT 2.2.1 with simplifier
+975185 variables, 159127 clauses
+SAT checker: instance is UNSATISFIABLE
+Runtime Solver: 0.2352s
+Runtime decision procedure: 0.649161s
+
+** Results:
+Hetrify+/F/cohencu-ll_unwindbound50_gen.c function main
+[main.assertion.1] line 1354 assertion assert_ret1 == 1: SUCCESS
+
+** 0 of 1 failed (1 iterations)
+VERIFICATION SUCCESSFUL
+
+
+[stderr]
+**** WARNING: Use --unwinding-assertions to obtain sound verification results
+	Command being timed: "cbmc Hetrify+/F/cohencu-ll_unwindbound50_gen.c --unwind 50 --no-built-in-assertions"
+	User time (seconds): 4.97
+	System time (seconds): 0.24
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.28
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 248212
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 64464
+	Voluntary context switches: 405
+	Involuntary context switches: 10
+	Swaps: 0
+	File system inputs: 24
+	File system outputs: 32
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

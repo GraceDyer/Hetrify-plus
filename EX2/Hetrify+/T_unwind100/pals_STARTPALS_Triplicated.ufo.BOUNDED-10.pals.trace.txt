@@ -1,0 +1,145 @@
+[stdout]
+CBMC version 5.95.1 (cbmc-5.95.1) 64-bit x86_64 linux
+Parsing Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/libpals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals_gen.c
+Parsing Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c
+Converting
+Type-checking libpals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals_gen
+Type-checking pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 16 object bits, 48 offset bits (user-specified)
+Starting Bounded Model Checking
+Unwinding loop add_history_type.0 iteration 1 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 2 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 3 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 1 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 2 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 3 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 1 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 2 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 3 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 1 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 2 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+Unwinding loop add_history_type.0 iteration 3 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 71 function add_history_type thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 1 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 2 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 3 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 4 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 5 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 6 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 7 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 8 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 9 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 10 file Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c line 486 function main thread 0
+Runtime Symex: 0.719021s
+size of program expression: 16984 steps
+simple slicing removed 14 assignments
+Generated 19 VCC(s), 19 remaining after simplification
+Runtime Postprocess Equation: 0.00233236s
+Passing problem to propositional reduction
+converting SSA
+Runtime Convert SSA: 0.150643s
+Running propositional reduction
+Post-processing
+Runtime Post-process: 3.8e-06s
+Solving with MiniSAT 2.2.1 with simplifier
+495287 variables, 42474 clauses
+SAT checker: instance is UNSATISFIABLE
+Runtime Solver: 0.0741688s
+Runtime decision procedure: 0.225229s
+
+** Results:
+Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c function reach_error
+[reach_error.assertion.1] line 3 assertion 0: SUCCESS
+
+** 0 of 1 failed (1 iterations)
+VERIFICATION SUCCESSFUL
+
+
+[stderr]
+**** WARNING: Use --unwinding-assertions to obtain sound verification results
+	Command being timed: "cbmc --unwind 100 --no-built-in-assertions --object-bits 16 Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/libpals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals_gen.c Hetrify+/T/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals/pals_STARTPALS_Triplicated.ufo.BOUNDED-10.pals.c"
+	User time (seconds): 0.95
+	System time (seconds): 0.14
+	Percent of CPU this job got: 83%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:01.31
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 113508
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 275
+	Minor (reclaiming a frame) page faults: 31397
+	Voluntary context switches: 912
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 50368
+	File system outputs: 40
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

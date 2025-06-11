@@ -1,0 +1,76 @@
+[stdout]
+CBMC version 5.95.1 (cbmc-5.95.1) 64-bit x86_64 linux
+Parsing Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/libpals_lcr-var-start-time.3.ufo.BOUNDED-6.pals_gen.c
+Parsing Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c
+Converting
+Type-checking libpals_lcr-var-start-time.3.ufo.BOUNDED-6.pals_gen
+Type-checking pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 16 object bits, 48 offset bits (user-specified)
+Starting Bounded Model Checking
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 1 file Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c line 264 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 2 file Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c line 264 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 3 file Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c line 264 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 4 file Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c line 264 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 5 file Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c line 264 function main thread 0
+aborting path on assume(false) at file <builtin-library-abort> line 6 function abort thread 0
+Unwinding loop main.0 iteration 6 file Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c line 264 function main thread 0
+Runtime Symex: 0.127915s
+size of program expression: 3098 steps
+simple slicing removed 14 assignments
+Generated 6 VCC(s), 6 remaining after simplification
+Runtime Postprocess Equation: 0.000294107s
+Passing problem to propositional reduction
+converting SSA
+Runtime Convert SSA: 0.0263048s
+Running propositional reduction
+Post-processing
+Runtime Post-process: 4.1e-06s
+Solving with MiniSAT 2.2.1 with simplifier
+63210 variables, 21194 clauses
+SAT checker: instance is UNSATISFIABLE
+Runtime Solver: 0.361586s
+Runtime decision procedure: 0.388057s
+
+** Results:
+Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c function reach_error
+[reach_error.assertion.1] line 3 assertion 0: SUCCESS
+
+** 0 of 1 failed (1 iterations)
+VERIFICATION SUCCESSFUL
+
+
+[stderr]
+**** WARNING: Use --unwinding-assertions to obtain sound verification results
+	Command being timed: "cbmc --unwind 100 --no-built-in-assertions --object-bits 16 Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/libpals_lcr-var-start-time.3.ufo.BOUNDED-6.pals_gen.c Hetrify+/T/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals/pals_lcr-var-start-time.3.ufo.BOUNDED-6.pals.c"
+	User time (seconds): 0.56
+	System time (seconds): 0.04
+	Percent of CPU this job got: 86%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.70
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 32756
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 10550
+	Voluntary context switches: 674
+	Involuntary context switches: 0
+	Swaps: 0
+	File system inputs: 40
+	File system outputs: 40
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
