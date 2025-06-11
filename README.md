@@ -54,17 +54,6 @@ tar -xvf riscv64-elf-ubuntu-22.04-nightly-2023.01.31-nightly.tar.gz
 sudo mv riscv64-unknown-elf /opt/riscv
 echo 'export PATH=/opt/riscv/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
-
-
-# Install Rust and rustup
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-source $HOME/.cargo/env
-
-# Add RISC-V target support
-rustup target add riscv64gc-unknown-none-elf
-
-# Verify installation
-rustc --version
 ```
 
 
@@ -77,7 +66,7 @@ rustc --version
 - **Hetrify**: The verification transformation tool designed in our ICSE paper.
 - **Hetrify+**: The verification transformation tool designed in this paper.
 - **ae**: Auxiliary analysis tool for binary files. Hetrify invokes the `ae` tool during its operation.
-## Supported Functions of Hetrify
+## Supported Functions of Hetrify+
 
 Hetrify and Hetrify+ support the transformation of the following types of code:
 - Binary programs (.elf)
@@ -86,7 +75,7 @@ Hetrify and Hetrify+ support the transformation of the following types of code:
 - C mixed with assembly programs (.c)
 - RISC-V static library code (.a)
 - Rust programs (.rs)
-## Basic Usage of Hetrify
+## Basic Usage of Hetrify+
 
 Assume you want to verify the program `./bAnd1.s`. You can run Hetrify with the following command:
 
@@ -99,7 +88,7 @@ This command will generate a C program named `bAnd1_gen.c` in the `./` directory
 ```sh
 cbmc ./bAnd1_gen.c --unwind 20
 ```
-## Additional Functions of Hetrify
+## Additional Functions of Hetrify+
 
 To view the additional functions and usage of Hetrify, use the following command:
 
