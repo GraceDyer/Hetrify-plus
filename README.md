@@ -11,13 +11,13 @@ To use the provided Docker environment, follow these steps:
 1. **Pull the Docker image**:
 
     ```sh
-    docker pull anonymous535/hetrify-plus
+    docker pull anonymous535/hetrify-plus:latest
     ```
 
 2. **Run the Docker container**:
 
     ```sh
-    docker run -it --name hetrify_container -u root anonymous535/hetrify:latest /bin/bash
+    docker run -it --name hetrify_container -u root anonymous535/hetrify-plus:latest /bin/bash
     cd ~
     ```
 
