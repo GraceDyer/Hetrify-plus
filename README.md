@@ -11,7 +11,7 @@ To use the provided Docker environment, follow these steps:
 1. **Pull the Docker image**:
 
     ```sh
-    docker pull anonymous535/hetrify:latest
+    docker pull anonymous535/hetrify-plus
     ```
 
 2. **Run the Docker container**:
