@@ -1,0 +1,261 @@
+[stdout]
+CBMC version 5.95.1 (cbmc-5.95.1) 64-bit x86_64 linux
+Parsing Ghidra/T/bresenham-ll_valuebound10.c
+Converting
+Type-checking bresenham-ll_valuebound10
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+Unwinding loop main.0 iteration 1 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 2 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 3 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 4 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 5 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 6 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 7 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 8 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 9 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 10 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 11 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 12 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 13 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 14 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 15 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 16 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 17 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 18 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 19 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 20 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 21 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 22 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 23 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 24 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 25 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 26 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 27 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 28 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 29 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 30 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 31 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 32 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 33 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 34 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 35 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 36 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 37 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 38 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 39 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 40 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 41 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 42 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 43 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 44 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 45 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 46 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 47 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 48 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 49 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 50 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 51 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 52 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 53 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 54 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 55 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 56 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 57 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 58 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 59 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 60 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 61 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 62 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 63 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 64 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 65 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 66 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 67 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 68 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 69 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 70 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 71 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 72 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 73 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 74 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 75 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 76 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 77 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 78 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 79 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 80 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 81 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 82 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 83 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 84 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 85 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 86 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 87 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 88 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 89 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 90 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 91 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 92 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 93 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 94 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 95 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 96 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 97 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 98 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 99 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 100 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 101 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 102 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 103 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 104 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 105 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 106 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 107 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 108 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 109 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 110 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 111 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 112 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 113 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 114 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 115 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 116 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 117 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 118 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 119 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 120 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 121 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 122 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 123 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 124 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 125 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 126 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 127 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 128 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 129 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 130 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 131 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 132 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 133 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 134 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 135 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 136 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 137 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 138 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 139 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 140 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 141 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 142 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 143 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 144 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 145 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 146 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 147 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 148 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 149 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 150 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 151 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 152 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 153 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 154 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 155 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 156 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 157 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 158 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 159 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 160 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 161 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 162 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 163 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 164 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 165 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 166 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 167 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 168 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 169 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 170 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 171 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 172 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 173 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 174 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 175 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 176 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 177 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 178 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 179 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 180 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 181 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 182 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 183 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 184 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 185 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 186 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 187 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 188 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 189 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 190 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 191 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 192 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 193 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 194 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 195 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 196 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 197 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 198 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Unwinding loop main.0 iteration 199 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Not unwinding loop main.0 iteration 200 file Ghidra/T/bresenham-ll_valuebound10.c line 35 function main thread 0
+Runtime Symex: 0.249892s
+size of program expression: 5842 steps
+simple slicing removed 12 assignments
+Generated 201 VCC(s), 201 remaining after simplification
+Runtime Postprocess Equation: 0.000779721s
+Passing problem to propositional reduction
+converting SSA
+Runtime Convert SSA: 2.69947s
+Running propositional reduction
+Post-processing
+Runtime Post-process: 3.8e-06s
+Solving with MiniSAT 2.2.1 with simplifier
+1743366 variables, 9029955 clauses
+SAT checker: instance is UNSATISFIABLE
+Runtime Solver: 20.2162s
+Runtime decision procedure: 22.9161s
+
+** Results:
+Ghidra/T/bresenham-ll_valuebound10.c function reach_error
+[reach_error.assertion.1] line 6 assertion 0: SUCCESS
+
+** 0 of 1 failed (1 iterations)
+VERIFICATION SUCCESSFUL
+
+
+[stderr]
+**** WARNING: Use --unwinding-assertions to obtain sound verification results
+	Command being timed: "cbmc Ghidra/T/bresenham-ll_valuebound10.c --unwind 200 --no-built-in-assertions"
+	User time (seconds): 22.77
+	System time (seconds): 1.00
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:23.84
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1070276
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 302995
+	Voluntary context switches: 394
+	Involuntary context switches: 13
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 32
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
